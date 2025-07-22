@@ -62,9 +62,9 @@ function mostrarResumen() {
   }
 }
 
-// ============================
-// PROGRAMA PRINCIPAL
-// ============================
+
+// Programa principal
+
 
 function iniciarSimulador() {
   alert("Bienvenido a la tienda de guitarras eléctricas!");
